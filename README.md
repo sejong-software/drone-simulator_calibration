@@ -8,4 +8,3 @@
 ### 시뮬레이터
 ![11111111](https://user-images.githubusercontent.com/46476876/107911009-f45a3300-6f9e-11eb-8559-2e91e1499382.PNG)
 
-### 특허 등록
